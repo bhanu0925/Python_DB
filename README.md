@@ -38,3 +38,9 @@
   Q-2. Write an SQL query to print details of the Workers whose FIRST_NAME ends with  ‘h’ and contains six alphabets.
   
   Q-3. Write a query to validate Email of Employee.
+  
+  
+  **SQLAssignment_7**
+  Q-13. Write an SQL query to show only odd rows from a table.
+  
+  Q-14. Write an SQL query to clone a new table from another table.
