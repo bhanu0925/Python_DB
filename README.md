@@ -41,6 +41,13 @@
   
   
   **SQLAssignment_7**
+  
   Q-13. Write an SQL query to show only odd rows from a table.
   
   Q-14. Write an SQL query to clone a new table from another table.
+  
+  **SQLAssignment_8**
+  
+  Q-15. Write an SQL query to fetch intersecting records of two tables.
+  
+  Q-16. Write an SQL query to show records from one table that another table does not have.
