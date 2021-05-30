@@ -57,3 +57,9 @@
   Q-17. Write an SQL query to show the top n (say 10) records of a table.
   
   Q-18. Write an SQL query to determine the nth (say n=5) highest salary from a table.
+  
+  **SQLAssignment_10**
+  
+  Q-19. Write an SQL query to determine the 5th highest salary without using TOP or limit method.
+  
+  Q-20. Write an SQL query to fetch the list of employees with the same salary.
